@@ -13,6 +13,11 @@ TEDxShenzhen is
 [event](http://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/what-is-a-tedx-event)
 .
 
+
+[Edit this page](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/edit/master/index.md),
+[wiki](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/wiki)
+
+
 ### About TEDx and TED
 
 See <http://www.ted.com>
@@ -45,5 +50,7 @@ for a TEDx to be larger than 100 attendees an offical TED event attendee must be
 ### FAQ
 
 
-[Edit this page](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/edit/master/index.md),
-[wiki](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/wiki)
+### Registration
+
+Attention: date, venue can be changed.
+Please keep electronic ticket as future registration may be not free. 
