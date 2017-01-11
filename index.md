@@ -57,5 +57,7 @@ for a TEDx to be larger than 100 attendees an offical TED event attendee must be
 
 ### Registration
 
+REgister and see attendee list at <https://yoopay.cn/event/79942064> or below.
+
 Attention: date, venue can be changed.
 Please keep electronic ticket as future registration may be not free. 
