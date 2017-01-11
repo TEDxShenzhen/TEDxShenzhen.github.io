@@ -22,7 +22,7 @@ TEDxShenzhen is
 [event](http://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/what-is-a-tedx-event)
 prepared to be on Saturday, 2017-9-16.
 
-T+E+D stated oroginally for Technology, Entertainment and Design, but they went broader.
+T+E+D stated originally for Technology, Entertainment and Design, but they went broader.
 We are going to have standard event. And I expect Shenzhen nature will be very close to what originally was the TED heart, the Silicon Valey.
 The event will be at least 50% in English.
 For one part: spreading TEDx within China, Chinese would be better,
