@@ -49,7 +49,7 @@ Organizers are likely have something to say. And we are inviting interested.
 
 ### Invited speakers
 
-Matthew Brennan, was giving great talk at https://www.chinamarketingsummit.com 
+Matthew Brennan, was giving great talk at [www.chinamarketingsummit.com](https://www.chinamarketingsummit.com) 
 
 ### For all speakers
 
@@ -80,7 +80,7 @@ for a TEDx to be larger than 100 attendees an offical TED event attendee must be
 
 ### Registration
 
-REgister and see attendee list at <https://yoopay.cn/event/79942064> or below.
+Register and see attendee list at <https://yoopay.cn/event/79942064> or below.
 
 Attention: date, venue can be changed.
 Please keep electronic ticket as future registration may be not free. 
