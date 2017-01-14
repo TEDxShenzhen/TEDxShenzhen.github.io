@@ -45,6 +45,29 @@ Arrived in SZ 10 years ago. Represented Shenzhen at UNESCO Creative.
 
 ### Expected speakers
 
+Organizers are likely have something to say. And we are inviting interested.
+
+### Invited speakers
+
+Matthew Brennan, was giving great talk at https://www.chinamarketingsummit.com 
+
+### For all speakers
+
+1. register at TEDxShenzhen.github.io (here, below)
+2. prepare to provide  
+
+    - topic name
+    - quick intro
+    - your name and short bio
+    - photo
+
+3. practice before
+4. let others know about coming TEDxShenzhen
+5. get involved as organizers
+6. drink beer with organizers every month
+
+Choose your involvement level from above.
+
 
 ### Notes
 
