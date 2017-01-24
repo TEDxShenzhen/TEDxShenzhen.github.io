@@ -42,7 +42,7 @@ For one part: spreading TEDx within China, Chinese would be better,
 
 ### Expected speakers
 
-Organizers are likely have something to say. And we are inviting interested.
+Organizers likely have something to say. And we are inviting interested.
 
 ### Invited speakers
 
@@ -50,11 +50,11 @@ Matthew Brennan, was giving great talk at [www.chinamarketingsummit.com](https:/
 
 ### For all speakers
 
-1. register at TEDxShenzhen.github.io (here, below)
-2. prepare to provide  
+1. register at TEDxShenzhen.github.io (here, below) as guest.
+2. prepare to provide by creating TED profile at <https://auth.ted.com/users/new> 
 
-    - topic name
-    - quick intro
+    - topic title
+    - quick introduction of topic
     - your name and short bio
     - photo
 
