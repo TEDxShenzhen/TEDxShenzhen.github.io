@@ -69,7 +69,7 @@ Choose your involvement level from above.
 ### Notes
 
 According to [rules](http://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/tedx-rules),
-for a TEDx to be larger than 100 attendees an offical TED event attendee must be within organizers and 
+for a TEDx to be larger than 100 attendees an offical TED event (TED or [TEDFest]( https://www.ted.com/attend/conferences/special-events/tedfest)) attendee must be within organizers and 
 [apply for TEDx license](http://www.ted.com/participate/organize-a-local-tedx-event/apply-for-a-tedx-license).
 
 ### FAQ
