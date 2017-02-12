@@ -12,7 +12,7 @@ See <http://www.ted.com> and [TEDx site](http://www.ted.com/about/programs-initi
 
 TED是世界上最大的，最有名的活动为了spread great ideas，就是传播优秀的思想. TEDx是独立组织的活动.每个人都能做到。
 之前在深圳有TEDx,但是你可能没听说。我们团结一起准备活动。组织者团队都是一些社区领导，有活动组织经验。
-因为我们的目的是影响世界，所以大部分演示一个用英文，在YouTube上要发布的。
+因为我们的目的是影响世界，所以大部分演示应该用英文，在YouTube上要发布的。
 
 ### About Shenzhen
 
