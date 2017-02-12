@@ -39,6 +39,8 @@ For one part: spreading TEDx within China, Chinese would be better,
 
 ### Organizers
 
+Organizers are organizers in their related communities, and we welcome more.
+
 - [Paul Verest](http://www.ted.com/profiles/7006699): Software Architect, Technical Manager, "making actions to get wishes closer", [Shenzhen Java User Group (SZJUG) organizer](http://szjug.github.io)
 - Michael Eagleton: Australian Entrepreneur & Maker Collaborator, resident in Shenzhen since 1997. For past 15 years have been manufacturing in China for Automotive & Telecommunication sectors. , Founder of FABAPC aka Shenzhen XinShunAo E-Commerce Co., Ltd., which is a lean global services consultancy operating from Shenzhen, the 'Hollywood of Hardware'. 
 - Saravanakumar from India. Working as creative technologist and living in Shenzhen for 3 years. Co-founder of design community (Madrasters, which has 5000 members in India and 1500 members in China and have successfully hosted 35 meetups, 20 workshops in India & China.
@@ -46,7 +48,8 @@ For one part: spreading TEDx within China, Chinese would be better,
 
 ### Expected speakers
 
-Organizers likely have something to say. And we are inviting interested.
+We don't have exact topics proposal at this stage, but we are for sure to have Technology and Design talk from people active in that communities.
+Every community leader can recommend speakers from his community, and suggest TED talks to screen.
 
 ### Invited speakers
 
