@@ -6,6 +6,8 @@ title: TEDxShenzhenLive on April 27th 2017
 [Edit this page](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/edit/master/Live.md),
 [wiki](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/wiki)
 
+**This is in preparations/work in progress.**
+
 ### What is TEDx?
 
 In the spirit of ideas worth spreading, TED has created a program called TEDx. 
@@ -26,7 +28,7 @@ TEDxShenzhenLive is
 [TEDx](http://www.ted.com/about/programs-initiatives/tedx-program)
 [Live](https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/event-types/tedxlive)
 [event](http://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/what-is-a-tedx-event)
-prepared to be on 2017-4-27, the time TED Conference is happening.
+prepared to be on 2017-4-27, the time TED Conference in Vancouver is happening.
 It will screen live talks from TED Conference (or if there is Internet connection issue, show the talks that would be already delivered on the conference).
 
 ### Possible venues
