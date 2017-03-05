@@ -1,6 +1,6 @@
 ---
 layout: tactile_theme_TEDxLive
-title: TEDxShenzhenLive on April 2017
+title: TEDxShenzhenLive on April 27th 2017
 ---
 
 [Edit this page](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/edit/master/Live.md),
