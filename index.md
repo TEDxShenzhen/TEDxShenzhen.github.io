@@ -6,6 +6,8 @@ title: TEDxShenzhen event organizers pages
 [Edit this page](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/edit/master/index.md),
 [wiki](https://github.com/TEDxShenzhen/TEDxShenzhen.github.io/wiki)
 
+**This is in preparations/work in progress.**
+
 ### What is TEDx?
 
 In the spirit of ideas worth spreading, TED has created a program called TEDx. 
