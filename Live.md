@@ -12,6 +12,8 @@ See <http://www.ted.com> and [TEDx site](http://www.ted.com/about/programs-initi
 
 ### TEDxShenzhenLive on April 27th 2017
 
+![](images/Live_from_T17_Banner_horizontal.png)
+
 TEDxShenzhenLive is
 [TEDx](http://www.ted.com/about/programs-initiatives/tedx-program)
 [Live](https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/event-types/tedxlive)
