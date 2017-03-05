@@ -13,7 +13,6 @@ TEDx is a program of local, self-organized events that bring people together to 
 Our event is called TEDxShenzhen, where x = independently organized TED event. At our TEDxShenzhen event, 
 TEDTalks video and live speakers will combine to spark deep discussion and connection in a small group. 
 The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.
-Text in the footer that states "This independent TEDx event is operated under license from TED."
 
 ### About TED and TEDx
 
