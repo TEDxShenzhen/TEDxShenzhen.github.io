@@ -35,15 +35,6 @@ It will screen live talks from TED Conference (or if there is Internet connectio
 
 Speakers are those presenting on TED Conference.
 
-### Notes
-
-According to [rules](http://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/tedx-rules),
-for a TEDx to be larger than 100 attendees an offical TED event (TED or [TEDFest]( https://www.ted.com/attend/conferences/special-events/tedfest)) attendee must be within organizers and 
-[apply for TEDx license](http://www.ted.com/participate/organize-a-local-tedx-event/apply-for-a-tedx-license).
-
-### FAQ
-
-
 ### Registration
 
 Register and see attendee list at <https://yoopay.cn/event/TEDxShenzhenLive> (<http://t.cn/RioNdSm>) or below.
