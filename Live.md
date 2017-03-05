@@ -1,5 +1,5 @@
 ---
-layout: tactile_theme
+layout: tactile_theme_TEDxLive
 title: TEDxShenzhen event organizers pages
 ---
 
