@@ -33,7 +33,7 @@ It will screen live talks from TED Conference (or if there is Internet connectio
 
 ### Expected speakers
 
-Speakers are those 
+Speakers are those presenting on TED Conference.
 
 ### Notes
 
